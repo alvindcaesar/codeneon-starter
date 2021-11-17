@@ -5,5 +5,13 @@
 
 
 ## Installation instruction:
-- Download this repo as a zip file, and upload the zipped file into your WordPress site as usual.
-- Or, if you prefer the hard way, upload it via FTP inside */wp-content/themes* directory.
+From within WordPress
+1. Visit **Appearance > Themes > Upload Theme**
+2. Browse for the theme's zip file on your local machine and click **Install Now**
+3. Click the **Activate** button to activate the theme.
+
+Manually
+1. Unzip the downloaded package.
+2. Upload the `codeneon-starter` to the `/wp-content/themes/` folder.
+3. Activate the themes through **Appearance > Themes** menu in WordPress.
+
