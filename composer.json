@@ -1,0 +1,19 @@
+{
+  "name": "alvindcaesar/codeneon-starter",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "homepage": "https://github.com/alvindcaesar/codeneon-starter",
+  "authors": [
+    {
+      "name": "Codeneon Starter Theme",
+      "homepage": "https://codeneondigital.com.com/"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "php": ">=5.6"
+  }
+}
