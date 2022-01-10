@@ -11,7 +11,7 @@ From within WordPress
 3. Click the **Activate** button to activate the theme.
 
 Manually
-1. Unzip the downloaded package.
+1. Unzip the downloaded [package](https://github.com/alvindcaesar/codeneon-starter/archive/refs/tags/1.0.0.zip).
 2. Upload the `codeneon-starter` to the `/wp-content/themes/` folder.
 3. Activate the themes through **Appearance > Themes** menu in WordPress.
 
